@@ -9,7 +9,7 @@ Esistono tre punteggi di credito utilizzati dalle banche e dalle società di car
 I clienti con un buon punteggio di credito sono considerati affidabili per ottenere prestiti da qualsiasi istituto finanziario.
 
 ## Dataset
-Abbiamo a disposizione un dataset etichettato basato sulla cronologia creditizia dei clienti di carte di credito. Puoi scaricare il dataset [qui](inserisci il link al dataset).
+Abbiamo a disposizione un dataset etichettato basato sulla cronologia creditizia dei clienti di carte di credito.
 
 ## Classificazione con Machine Learning
 Nella sezione successiva, esploreremo il processo di classificazione del punteggio di credito utilizzando tecniche di Machine Learning con Python.
